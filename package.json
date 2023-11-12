@@ -1,7 +1,7 @@
 {
   "name": "11tut",
   "version": "0.1.0",
-  "homepage": "https://github.com/DatLe3009/react_deploy_gh",
+  "homepage": "https://DatLe3009.github.io/react_deploy_gh",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",

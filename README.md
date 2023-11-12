@@ -2,6 +2,8 @@
 
 ## github
 
+https://create-react-app.dev/docs/deployment
+
 ## npm 
 
 [gh-pages]
@@ -16,7 +18,11 @@
 
 ### step3: in `package.json`
 
-- add `"homepage": "https://github.com/DatLe3009/react_deploy_gh"`: this is name of project
+- add `"homepage": "https://myusername.github.io/my-app"`
+
+myusername : DatLe3009
+
+my-app: react_deploy_gh 
 
 - in "scripts": add 
 
@@ -32,7 +38,7 @@ git init
 
 git add .
 
-git commit
+git commit -m "first commit"
 
 ### step6: push an existing repository from the command line
 
@@ -41,3 +47,7 @@ git remote add origin https://github.com/DatLe3009/react_deploy_gh.git
 git branch -M main
 
 git push -u origin main
+
+### step7: 
+
+npm run deploy
