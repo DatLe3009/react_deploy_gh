@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DatLe3009/react_deploy_gh/static/css/main.a86bda18.css",
+    "main.js": "/DatLe3009/react_deploy_gh/static/js/main.cf2bf560.js",
+    "index.html": "/DatLe3009/react_deploy_gh/index.html",
+    "main.a86bda18.css.map": "/DatLe3009/react_deploy_gh/static/css/main.a86bda18.css.map",
+    "main.cf2bf560.js.map": "/DatLe3009/react_deploy_gh/static/js/main.cf2bf560.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86bda18.css",
+    "static/js/main.cf2bf560.js"
+  ]
+}
