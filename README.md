@@ -1,6 +1,6 @@
 # Chapter23: Build & Deploy Your React Apps
 
-## github
+## deploy with project create-react-app
 
 https://create-react-app.dev/docs/deployment
 
